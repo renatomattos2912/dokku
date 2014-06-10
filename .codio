@@ -1,0 +1,11 @@
+{
+  "commands": {
+      "Serve": "grunt serve",     
+      "Build": "grunt",
+      "Deploy": "grunt deploy"
+  },        
+
+  "preview": {      
+      "Live": "http://{{domain}}:9000/"
+  }
+}
