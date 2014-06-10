@@ -278,7 +278,7 @@ module.exports = function (grunt) {
           branch: 'master'
         }
       },
-      heroku: {
+      dokku: {
         options: {
           remote: 'dokku@renatomattos.me:dokkutest',
           branch: 'master',
